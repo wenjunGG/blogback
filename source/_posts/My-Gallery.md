@@ -3,7 +3,7 @@ title: My Gallery
 date: 2016-11-11 16:52:00
 tags:
 ---
-
+![s](http://blog.zhangruipeng.me/hexo-theme-hueman/gallery/guitarist.jpg)
 
 # 我是 h1
 
